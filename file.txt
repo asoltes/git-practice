@@ -3,3 +3,6 @@ This is the Master
 1. first commit from the private
 2. second commit from the private
 3. third commit from the private
+4. fourth commit from the private
+5. fifth commit from the private
+6. added six
